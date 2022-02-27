@@ -1,6 +1,6 @@
 		  global  _start
 		  section .text
-_start:	  mov 	  dx, output 	  ; rdx holds address of next bytes to write
+_start:	  mov 	  rdx, output 	  ; rdx holds address of next bytes to write
 		  mov 	  r8, 1        	  ; initialize line legnth
 		  mov  	  r9, 0       	  ; number of stars written on line so far
 
