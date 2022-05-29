@@ -1,5 +1,9 @@
-.PHONY: all
+.PHONY: all run
 
 all:
-	nasm -f elf64 -F dwarf -g readfile.asm
-	ld readfile.o -o readfile
+	@echo "use 'make run filename=[target]' instead"
+
+run:
+	nasm -f elf64 -F dwarf -g $(filename).asm
+	ld $(filename).o -o $(filename)
+	./$(filename)

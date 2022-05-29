@@ -1,4 +1,5 @@
 # Learn x86 assembly
+Learning x86 assembly (Intel syntax).
 
 ## If you're wondering why I'm learning assembly, it's because.
 - Reverse engineering
@@ -12,3 +13,4 @@
 - https://www.unknowncheats.me/wiki/Assembly
 - https://www.youtube.com/watch?v=NhqAeQB_CZU&t=560s&ab_channel=TheCentreforComputingHistory
 - https://www.youtube.com/watch?v=VroEiMOJPm8&ab_channel=LiveOverflow
+- https://www.tutorialspoint.com/assembly_programming/index.htm
