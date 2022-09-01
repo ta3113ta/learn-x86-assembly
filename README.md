@@ -6,6 +6,7 @@ Learning x86 assembly (Intel syntax).
 - Memory Editing
 - Games such as TIS-100, SHENZHEN I/O and EXAPUNKS
 - Understanding how a computer processor (x86) works
+- How does a compiler produce an assembly.
 
 ## Learning Resources
 - https://cs.lmu.edu/~ray/notes/nasmtutorial/
